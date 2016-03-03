@@ -1,0 +1,5 @@
+print("Hello, I am python, your servant")
+master = input("What is your name, master?")
+print("I am glad to welcome you")
+print(master)
+print("my master")
