@@ -1,0 +1,1305 @@
+Encrypted message #1:                   Level:1, Scores:0
+
+ydeerG sretae gid rieht sevarg htiw rieht .hteet  -- hcnerF brevorP no 
+deerg 
+
+Hints:
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #2:                   Level:1, Scores:1
+
+god on Anonymous --  project. ambitious less much a on working and well and 
+alive but dead not is God 
+
+Hints:
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #3:                   Level:1, Scores:1
+
+raef no sreffeJ nasuS --  .noitautis wen eht ni tsom eht nrael dna tseb ruo 
+od nac ew os--ssenerawa denethgieh dna ygrene fo tfig sti htiw--ereh si 
+raef eht taht sevlesruo llet ylgnicnivnoc dna yltnetsisrep tsum 
+eW...sevlesruo margorper dna niarter tsum ew ,si ti dneirf eht sa raef esu 
+oT 
+
+Hints:
+  * Maybe we can use a mirror here?
+-------------------------------------------------------------------------------------
+Encrypted message #4:                   Level:1, Scores:2
+
+scitamehtam no llessuR dnartreB --  .eurt si gniyas era ew tahw rehtehw ron 
+,tuoba gniklat era ew tahw wonk reven ew hcihw ni tcejbus eht sa denifed eb 
+yam scitamehtaM 
+
+Hints:
+  * These words sound very similarly, maybe we start from another side?
+-------------------------------------------------------------------------------------
+Encrypted message #5:                   Level:1, Scores:2
+
+uoY tsum yarp taht eht yaw eb ,gnol lluf fo serutnevda dna .secneirepxe  -- 
+enitnatsnoC reteP yfavaC no reyarp 
+
+Hints:
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #6:                   Level:1, Scores:3
+
+ksA a ylpeed suoigiler naitsirhC fi d'eh rehtar evil txen ot a dedraeb 
+milsuM taht yam ro yam ton eb gnittolp a rorret ,kcatta ro na tsiehta taht 
+yam ro yam ton wohs mih woh ot tes pu a sseleriw krowten ni sih .esuoh nO 
+eht elacs fo ,ecidujerp stsiehta t'nod mees os dab .yletal  -- ttocS smadA 
+no msiehta 
+
+Hints:
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #7:                   Level:1, Scores:3
+
+we're act0rs - we're the 0pp0site 0f pe0ple.  -- unkn0wn 0n acting 
+
+Hints:
+  * I think Ceasar was using this kind of cipher
+-------------------------------------------------------------------------------------
+Encrypted message #8:                   Level:1, Scores:4
+
+the tw0 m0st c0mm0n elements in the universe are hydr0gen and stupidity.  
+-- harlan ellis0n 0n stupidity 
+
+Hints:
+  * they definitely substitute s0mething with s0mething, we need t0 investigate.
+-------------------------------------------------------------------------------------
+Encrypted message #9:                   Level:1, Scores:4
+
+government on Unknown --  have. to want possibly ever could you world the 
+in client worst the potentially is government Any 
+
+Hints:
+  * Other language might have a different words order, try to make it more English
+-------------------------------------------------------------------------------------
+Encrypted message #10:                   Level:1, Scores:5
+
+fortune on Bierce Ambrose --  others. to fortune good and ourselves, to 
+misfortunes kinds: two of are Calamities 
+
+Hints:
+  * Words are in the strange order!
+-------------------------------------------------------------------------------------
+Encrypted message #11:                   Level:1, Scores:5
+
+he xnt cnm's zbbdos qdronmrhahkhsx enq xntq nvm zbshnmr, sgdm xnt zqd 
+enqdudq bgzhmdc sn z onrhshnm ne cdedmrd.  -- gnkkx khrkd nm qdronmrhahkhsx 
+
+Hints:
+  * The text looks shifted to the left(zab = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #12:                   Level:1, Scores:6
+
+nz pxo cvtjoftt bmxbzt cpsft nf up efbui; j qsfgfs puifs qfpqmf't.  -- tfui 
+hpejo po cvtjoftt 
+
+Hints:
+  * bcdefgh = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #13:                   Level:1, Scores:6
+
+ssentaerg no nitsrooB .J leinaD --  .sreciffo snoitaler cilbup erih emos 
+dna ,ssentaerg eveihca emos ,taerg nrob era emoS 
+
+Hints:
+  * Can you read backwards?
+-------------------------------------------------------------------------------------
+Encrypted message #14:                   Level:1, Scores:6
+
+epoh no eraepsekahS mailliW --  .sgnik serutaerc renaem dna ,sdog sekam ti 
+sgniK ;sgniw s'wollaws htiw seilf dna ,tfiws si epoh eurT 
+
+Hints:
+  * Maybe we can use a mirror here?
+-------------------------------------------------------------------------------------
+Encrypted message #15:                   Level:1, Scores:7
+
+parents on Unknown --  it. enjoyed she think I but me, with trouble of deal 
+great a had mother My 
+
+Hints:
+  * Words are in the strange order!
+-------------------------------------------------------------------------------------
+Encrypted message #16:                   Level:1, Scores:7
+
+vgdm sgdqd hr zm hmbnld szw, sgd itrs lzm vhkk ozx lnqd zmc sgd tmitrs kdrr 
+nm sgd rzld zlntms ne hmbnld.  -- okzsn nm szwdr 
+
+Hints:
+  * zabcdef = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #17:                   Level:1, Scores:8
+
+dpnnvojtn jt mjlf qspijcjujpo, ju't b hppe jefb cvu ju xpo'u xpsl.  -- xjmm 
+sphfst po dpnnvojtn 
+
+Hints:
+  * bcdefgh = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #18:                   Level:1, Scores:8
+
+modsiw no llessuR dnartreB --  .stbuod fo lluf os elpoep resiw tub 
+,sevlesmeht fo niatrec os syawla era scitanaf dna sloof taht si dlrow eht 
+htiw melborp elohw ehT 
+
+Hints:
+  * Maybe we can use a mirror here?
+-------------------------------------------------------------------------------------
+Encrypted message #19:                   Level:1, Scores:9
+
+eH sah neeb dellac a ercoidem ;nam tub siht si detnarrawnu .yrettalf eH saw 
+a naicitilop fo latnemunom .ssenelttil  -- drahciR .M noxiN no snaicitilop 
+
+Hints:
+  * Words are mirrored, no?
+-------------------------------------------------------------------------------------
+Encrypted message #20:                   Level:1, Scores:9
+
+it i$ imp0$$ib1e t0 defeat an ign0rant man in argument.  -- unkn0wn 0n 
+argument 
+
+Hints:
+  * they definite1y $ub$titute $0mething with $0mething, we need t0 inve$tigate.
+-------------------------------------------------------------------------------------
+Encrypted message #21:                   Level:1, Scores:10
+
+wh0 knew that d0g $a1iva can mend a br0ken heart?  -- j0e wein$tein 0n d0g$ 
+
+Hints:
+  * they definite1y $ub$titute $0mething with $0mething, we need t0 inve$tigate.
+-------------------------------------------------------------------------------------
+Encrypted message #22:                   Level:1, Scores:10
+
+vjg iqfu vqq ctg hqpf qh c lqmg.  -- ctkuvqvng qp iqf 
+
+Hints:
+  * The text looks shifted to the right(cde = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #23:                   Level:1, Scores:11
+
+ehT gniknihteerf fo eno ega si eht nommoc esnes fo eht .txen  -- wehttaM 
+dlonrA no nommoc esnes 
+
+Hints:
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #24:                   Level:1, Scores:11
+
+afmmqc pyrfcp rm zc qrpmle md qmsj rfyl qrpmle md zmbw.  -- nwrfyempyq ml 
+zmbw 
+
+Hints:
+  * The text looks shifted to the left(yza = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #25:                   Level:1, Scores:12
+
+ehT tniop fo gnivil dna fo gnieb na ,tsimitpo si ot eb hsiloof hguone ot 
+eveileb eht tseb si tey ot .emoc  -- reteP vonitsU no msimitpo 
+
+Hints:
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #26:                   Level:1, Scores:12
+
+ecneicsnoc no nilknarF nimajneB --  .samtsirhC launitnoc a si ecneicsnoc 
+doog A 
+
+Hints:
+  * These words sound very similarly, maybe we start from another side?
+-------------------------------------------------------------------------------------
+Encrypted message #27:                   Level:2, Scores:74
+
+books on Parker Dorothy --  force. great with thrown be should It lightly. 
+aside tossed be to novel a not is This 
+
+Hints:
+  * We need to look at every word with a mirror!
+  * Can you read backwards?
+-------------------------------------------------------------------------------------
+Encrypted message #28:                   Level:2, Scores:76
+
+cbgpn qg y jsdpcumn ,agrmapyl rsz rg r'lqcmb mb fask pmd cfr clskkg-mrsy 
+.kcrqwq  -- rpysrq qlctcrq lm cbgpn 
+
+Hints:
+  * yzabcde = abcdefg  try to generalize this knowledge
+  * Words are mirrored, no?
+-------------------------------------------------------------------------------------
+Encrypted message #29:                   Level:2, Scores:78
+
+ruO seoreh era elpoep dna elpoep era .dewalf t'noD tel taht tniat eht gniht 
+uoy .evol  -- otrebmU ocE no seoreh 
+
+Hints:
+  * Can you read backwards?
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #30:                   Level:2, Scores:82
+
+ff  iillssbb  aaoorrddpp,,  yyrrqq  ff  eexxqqbb  eexxkkddllssbboopp,,  
+xxkkaa  qqeebb  eexxqqoobbaa  llcc  qqeebb  eexxkkddllssbboo  ttffkkpp  
+yyvv  xx  iixxkkaappiiffaabb  bbssbboovv  qqffjjbb..    ----  
+jjxxooddxxoobbqq  zzeell  llkk  aaoorrddpp 
+
+Hints:
+  * I see too many letters
+  * The text looks shifted to the left(xyz = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #31:                   Level:2, Scores:82
+
+TTTTTThhhhhheeeeee      ggggggrrrrrreeeeeeaaaaaatttttteeeeeesssssstttttt    
+  ffffffrrrrrriiiiiieeeeeennnnnndddddd      ooooooffffff      
+TTTTTTrrrrrruuuuuutttttthhhhhh      iiiiiissssss      
+ttttttiiiiiimmmmmmeeeeee,,,,,,      hhhhhheeeeeerrrrrr      
+ggggggrrrrrreeeeeeaaaaaatttttteeeeeesssssstttttt      
+eeeeeennnnnneeeeeemmmmmmyyyyyy      iiiiiissssss      
+PPPPPPrrrrrreeeeeejjjjjjuuuuuuddddddiiiiiicccccceeeeee,,,,,,      
+aaaaaannnnnndddddd      hhhhhheeeeeerrrrrr      
+ccccccoooooonnnnnnssssssttttttaaaaaannnnnntttttt      
+ccccccoooooommmmmmppppppaaaaaannnnnniiiiiioooooonnnnnn      
+HHHHHHuuuuuummmmmmiiiiiilllllliiiiiittttttyyyyyy......            
+------------      CCCCCChhhhhhaaaaaarrrrrrlllllleeeeeessssss      
+CCCCCCaaaaaalllllleeeeeebbbbbb      CCCCCCoooooollllllttttttoooooonnnnnn    
+  oooooonnnnnn      pppppprrrrrreeeeeejjjjjjuuuuuuddddddiiiiiicccccceeeeee 
+
+Hints:
+  * The text seems to be rather long, 2x long as usual
+  * I see too many letters
+-------------------------------------------------------------------------------------
+Encrypted message #32:                   Level:2, Scores:86
+
+c0µpeтeпce 0п peтer j. 1@ureпce --  !т. 0f µe$$ @ µ@ke $т!11 c@п d0 т0 
+п0тh!пg w!тh !пc0µpeтeпт тhe 
+
+Hints:
+  * Other language might have a different words order, try to make it more English
+  * тhey def!п!тe1y $uß$т!тuтe $0µeтh!пg w!тh $0µeтh!пg, we пeed т0 !пve$т!g@тe.
+-------------------------------------------------------------------------------------
+Encrypted message #33:                   Level:2, Scores:88
+
+ffaasshhiioonn  oonn  WWiillddee  OOssccaarr  ----    mmoonntthhss..  
+ssiixx  eevveerryy  iitt  aalltteerr  ttoo  hhaavvee  wwee  tthhaatt  
+iinnttoolleerraabbllee  ssoo  uugglliinneessss  ooff  ffoorrmm  aa  iiss  
+FFaasshhiioonn 
+
+Hints:
+  * The text seems to be rather long, 2x long as usual
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #34:                   Level:2, Scores:92
+
+pk tgftq vcjv gnrqgr aco gd arrcj pk tkgjv ,mtqy gugjv ggtjv uipkjv gtc 
+:fgfggp agjv vuwo gd vkh tqh .vk agjv vuwo vqp qf qqv jewo hq .vk fpc agjv 
+vuwo gxcj c gupgu hq uugeewu pk .vk  -- appjql pqutce pq mtqy 
+
+Hints:
+  * The text looks shifted to the right(cde = abc )
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #35:                   Level:2, Scores:94
+
+eeehhhTTT   tttsssaaalll   nnnoooiiitttaaatttpppmmmeeettt   sssiii   
+eeehhhttt   tttssseeetttaaaeeerrrggg   :::nnnooosssaaaeeerrrttt   ooottt   
+oooddd   eeehhhttt   ttthhhgggiiirrr   dddeeeeeeddd   rrrooofff   eeehhhttt 
+  gggnnnooorrrwww   ...nnnooosssaaaeeerrr      ------   ...TTT   ...SSS   
+tttoooiiilllEEE   nnnooo   nnnoooiiitttaaatttpppmmmeeettt 
+
+Hints:
+  * I feel dizzy
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #36:                   Level:2, Scores:98
+
+A evitavresnoc si a nam ohw stis dna ,skniht yltsom .stis  -- nwonknU no 
+sevitavresnoc 
+
+Hints:
+  * These words sound very similarly, maybe we start from another side?
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #37:                   Level:2, Scores:100
+
+biq iznyh bupy c mucx ni sio nbun qbyh sio bupy yfcgchunyx nby cgjimmcvfy, 
+qbunypyl lyguchm, biqypyl cgjlivuvfy, gomn vy nby nlonb?  -- mcl qchmnih 
+wbolwbcff ih nlonb 
+
+Hints:
+  * yzabcde = abcdefg  try to generalize this knowledge
+  * wxyzabc = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #38:                   Level:2, Scores:104
+
+eehhTT  ttsseebb  eeccnneeffeedd  ttssnniiaaggaa  ddeeddiiuuggssiimm  
+eeccnnaaggoorrrraa  ssii  aa  nneeeekk  eessnneess  ffoo  ..rruuoommuuhh    
+----  yyrraaMM  hhccssrriiHH  nnoo  rroommuuhh 
+
+Hints:
+  * The text seems to be rather long, 2x long as usual
+  * Words are mirrored, no?
+-------------------------------------------------------------------------------------
+Encrypted message #39:                   Level:2, Scores:104
+
+т! $! e1ß!$$0p 0т 1!@f п! Уп@µ e1!hw...$У@w 0т deeccu$ $! e1ß!$$0p У1п0 п! 
+eп0 .У@w  -- e1т0т$!я@ п0 $$eccu$ 
+
+Hints:
+  * We need to look at every word with a mirror!
+  * тheУ def!п!тe1У $uß$т!тuтe $0µeтh!пg w!тh $0µeтh!пg, we пeed т0 !пve$т!g@тe.
+-------------------------------------------------------------------------------------
+Encrypted message #40:                   Level:2, Scores:108
+
+ngqqme lm qpcemp jjgu --  .ngqqme lumr cfr mr rmppyn psmw jjcq mr bckyfqy 
+cz rml bjsmu smw ryfr wyu y fasq lg ctgj 
+
+Hints:
+  * The text looks shifted to the left(yza = abc )
+  * These words sound very similarly, maybe we start from another side?
+-------------------------------------------------------------------------------------
+Encrypted message #41:                   Level:2, Scores:110
+
+pcfrycu lm lykddmf cagjy --  .cpsq cz pctcl lya clm fagfu rsmzy qrlckcjc 
+mur cfr cpy ctmj bly pcfrycu cfr ,clmb bly bgyq qg jjy lcfu 
+
+Hints:
+  * yzabcde = abcdefg  try to generalize this knowledge
+  * Can you read backwards?
+-------------------------------------------------------------------------------------
+Encrypted message #42:                   Level:2, Scores:114
+
+vices on Bagehot Walter --  temptations. without be to good not is it but 
+vices, without be to good is It 
+
+Hints:
+  * Can you read backwards?
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #43:                   Level:2, Scores:116
+
+I reven was na ylgu gniht ni ym :efil rof tel eht mrof fo na tcejbo eb tahw 
+ti yam - ,thgil ,edahs dna evitcepsrep lliw syawla ekam ti .lufituaeb  -- 
+nhoJ elbatsnoC no ytuaeb 
+
+Hints:
+  * These words sound very similarly, maybe we start from another side?
+  * Words are in the strange order!
+-------------------------------------------------------------------------------------
+Encrypted message #44:                   Level:2, Scores:118
+
+hhhcccaaaeeerrrPPP   tttooonnn   ooottt   sssrrreeehhhtttooo   tttaaahhhwww 
+  yyyeeehhhttt   dddllluuuooohhhsss   ,,,tttaaaeee   tttuuubbb   tttaaaeee  
+ sssaaa   ssseeemmmoooccceeebbb   ,,,uuuoooyyy   dddnnnaaa   eeebbb   
+...tttnnneeellliiisss      ------   eeegggrrroooeeeGGG   
+nnnooosssiiinnnnnneeeDDD   eeeccciiitttnnneeerrrPPP   nnnooo   dddoooooofff 
+
+Hints:
+  * The text seems to be rather long, 3x long as usual
+  * Words are mirrored, no?
+-------------------------------------------------------------------------------------
+Encrypted message #45:                   Level:2, Scores:122
+
+ppppaaaassssssssiiiioooonnnn    oooonnnn    WWWWeeeesssstttt    
+RRRReeeebbbbeeeeccccccccaaaa    --------        
+RRRReeeeaaaappppeeeerrrr....    tttthhhheeee    ffffoooorrrr    
+wwwwaaaaiiiittttiiiinnnngggg    iiiissss    ddddooooiiiinnnngggg    
+yyyyoooouuuu''''rrrreeee    aaaallllllll    tttthhhheeeennnn    
+bbbbeeeeccccaaaauuuusssseeee    iiiitttt    ffffiiiinnnnddddiiiinnnngggg    
+oooonnnn    uuuupppp    ggggiiiivvvveeee    DDDDoooonnnn''''tttt    
+ppppaaaassssssssiiiioooonnnn....    yyyyoooouuuurrrr    ffffiiiinnnndddd    
+ttttoooo    nnnneeeeeeeedddd    wwwwiiiillllllll    YYYYoooouuuu 
+
+Hints:
+  * Other language might have a different words order, try to make it more English
+  * I see too many letters
+-------------------------------------------------------------------------------------
+Encrypted message #46:                   Level:2, Scores:124
+
+! тcep$eя ,hт!@f тuß тßu0d $! т@hш $тeg u0У п@ .п0!т@cude  -- п0$1!ш яeпz!µ 
+п0 hт!@f 
+
+Hints:
+  * I feel dizzy
+  * I think Ceasar was using this kind of cipher
+-------------------------------------------------------------------------------------
+Encrypted message #47:                   Level:2, Scores:126
+
+TTTTTTTTTTTThhhhhhhhhhhheeeeeeeeeeeerrrrrrrrrrrreeeeeeeeeeee            
+iiiiiiiiiiiissssssssssss            aaaaaaaaaaaa            
+NNNNNNNNNNNNeeeeeeeeeeeewwwwwwwwwwww            
+AAAAAAAAAAAAmmmmmmmmmmmmeeeeeeeeeeeerrrrrrrrrrrriiiiiiiiiiiiccccccccccccaaa 
+aaaaaaaaa            
+eeeeeeeeeeeevvvvvvvvvvvveeeeeeeeeeeerrrrrrrrrrrryyyyyyyyyyyy            
+mmmmmmmmmmmmoooooooooooorrrrrrrrrrrrnnnnnnnnnnnniiiiiiiiiiiinnnnnnnnnnnnggg 
+ggggggggg            wwwwwwwwwwwwhhhhhhhhhhhheeeeeeeeeeeennnnnnnnnnnn       
+     wwwwwwwwwwwweeeeeeeeeeee            
+wwwwwwwwwwwwaaaaaaaaaaaakkkkkkkkkkkkeeeeeeeeeeee            
+uuuuuuuuuuuupppppppppppp............            IIIIIIIIIIIItttttttttttt    
+        iiiiiiiiiiiissssssssssss            
+uuuuuuuuuuuuppppppppppppoooooooooooonnnnnnnnnnnn            
+uuuuuuuuuuuussssssssssss            
+wwwwwwwwwwwwhhhhhhhhhhhheeeeeeeeeeeetttttttttttthhhhhhhhhhhheeeeeeeeeeeerrr 
+rrrrrrrrr            wwwwwwwwwwwweeeeeeeeeeee            
+wwwwwwwwwwwwiiiiiiiiiiiillllllllllllllllllllllll            
+iiiiiiiiiiiitttttttttttt            oooooooooooorrrrrrrrrrrr            
+nnnnnnnnnnnnooooooooooootttttttttttt............                        
+------------------------            
+AAAAAAAAAAAAddddddddddddllllllllllllaaaaaaaaaaaaiiiiiiiiiiii            
+EEEEEEEEEEEE............            
+SSSSSSSSSSSStttttttttttteeeeeeeeeeeevvvvvvvvvvvveeeeeeeeeeeennnnnnnnnnnnsss 
+sssssssssoooooooooooonnnnnnnnnnnn            
+JJJJJJJJJJJJrrrrrrrrrrrr............            oooooooooooonnnnnnnnnnnn    
+        
+aaaaaaaaaaaammmmmmmmmmmmeeeeeeeeeeeerrrrrrrrrrrriiiiiiiiiiiiccccccccccccaaa 
+aaaaaaaaa 
+
+Hints:
+  * I see too many letters
+  * I see too many letters
+-------------------------------------------------------------------------------------
+Encrypted message #48:                   Level:2, Scores:128
+
+eeeessssoooohhhhTTTT    oooohhhhwwww    nnnnaaaacccc    eeeekkkkaaaammmm    
+uuuuooooyyyy    eeeevvvveeeeiiiilllleeeebbbb    
+sssseeeeiiiittttiiiiddddrrrruuuussssbbbbaaaa    nnnnaaaacccc    
+eeeekkkkaaaammmm    uuuuooooyyyy    ttttiiiimmmmmmmmoooocccc    
+....sssseeeeiiiittttiiiiccccoooorrrrttttaaaa        --------    
+eeeerrrriiiiaaaattttllllooooVVVV    nnnnoooo    ffffeeeeiiiilllleeeebbbb 
+
+Hints:
+  * Words are mirrored, no?
+  * I see too many letters
+-------------------------------------------------------------------------------------
+Encrypted message #49:                   Level:2, Scores:132
+
+ttttaaaahhhhWWWW    IIII    mmmmaaaaeeeerrrrdddd    ffffoooo    ssssiiii    
+nnnnaaaa    ttttrrrraaaa    ffffoooo    ....eeeeccccnnnnaaaallllaaaabbbb    
+    --------    iiiirrrrnnnneeeeHHHH    eeeessssssssiiiittttaaaaMMMM    
+nnnnoooo    eeeeccccnnnnaaaallllaaaabbbb 
+
+Hints:
+  * Words are mirrored, no?
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #50:                   Level:2, Scores:134
+
+::::ttttssssiiiinnnnyyyyggggoooossssiiiiMMMM    AAAA    nnnnaaaammmm    
+oooohhhhwwww    sssseeeettttaaaahhhh    nnnneeeemmmmoooowwww    ssssaaaa    
+hhhhccccuuuummmm    ssssaaaa    nnnneeeemmmmoooowwww    eeeettttaaaahhhh    
+eeeennnnoooo    ....rrrreeeehhhhttttoooonnnnaaaa        --------    
+sssseeeemmmmaaaaJJJJ    rrrreeeebbbbrrrruuuuhhhhTTTT    nnnnoooo    
+nnnneeeemmmm    ddddnnnnaaaa    nnnneeeemmmmoooowwww 
+
+Hints:
+  * Words are mirrored, no?
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #51:                   Level:2, Scores:138
+
+yprgqrq ufm qcci ncpdcargml gl ctcpwrfgle ypc rfmqc ufm ayllmr yrrygl gr gl 
+ylwrfgle.  -- cseclc bcjyapmgv ml ncpdcargml 
+
+Hints:
+  * defghij = abcdefg  try to generalize this knowledge
+  * The text looks shifted to the left(vwx = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #52:                   Level:2, Scores:140
+
+bbbjjj   hhhtttzzzqqqiii   mmmfffaaajjj   gggtttzzzlllmmmyyy   fff   
+xxxrrrfffqqqqqq   dddfffhhhmmmyyy   bbbnnnyyymmm   bbbmmmfffyyy   bbbjjj   
+xxxuuujjjsssyyy   tttsss   tttzzzwww   iiitttlll   fffsss   iiifffqqqqqq   
+yyymmmjjj   yyymmmnnnssslllxxx   mmmjjj   iiijjjxxxyyywwwtttdddjjjiii...   
+yyymmmjjjsss   ffflllfffnnnsss,,,   mmmtttbbb   rrrfffsssddd   
+dddfffhhhmmmyyyxxx   bbbfffnnnyyy   gggddd   yyymmmjjj   iiittttttwww   
+fffqqqqqq   iiifffddd   kkktttwww   dddtttzzzwww   wwwjjjyyyzzzwwwsss???    
+  ------   uuujjjyyyjjjwww   xxxyyyjjjnnnsssjjjwww   tttsss   iiitttlllxxx 
+
+Hints:
+  * Why there are so many doubled letters?
+  * fghijkl = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #53:                   Level:2, Scores:144
+
+eeeehhhhTTTT    tttteeeerrrrcccceeeessss    ooootttt    
+yyyyttttiiiivvvviiiittttaaaaeeeerrrrcccc    ssssiiii    
+ggggnnnniiiiwwwwoooonnnnkkkk    wwwwoooohhhh    ooootttt    
+eeeeddddiiiihhhh    rrrruuuuooooyyyy    ....sssseeeeccccrrrruuuuoooossss    
+    --------    ttttrrrreeeebbbbllllAAAA    
+nnnniiiieeeettttssssnnnniiiiEEEE    nnnnoooo    
+mmmmssssiiiirrrraaaaiiiiggggaaaallllpppp 
+
+Hints:
+  * I feel dizzy
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #54:                   Level:2, Scores:146
+
+gggooossssssiiippp   ooonnn   SSShhhaaakkkeeessspppeeeaaarrreee   
+WWWiiilllllliiiaaammm   ------      tttrrruuuttthhh...   aaasss   
+lllooonnnggg   aaasss   pppuuuttt   ssstttaaayyy   dddooonnn'''ttt   iiittt 
+  bbbuuuttt   fffaaasssttteeerrr,,,   tttrrraaavvveeelllsss   
+RRRuuummmooorrr 
+
+Hints:
+  * I see too many letters
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #55:                   Level:3, Scores:300
+
+tttttttttttthhhhhhhhhhhhoooooooooooouuuuuuuuuuuugggggggggggghhhhhhhhhhhhttt 
+tttttttttssssssssssss            oooooooooooonnnnnnnnnnnn            
+PPPPPPPPPPPPaaaaaaaaaaaarrrrrrrrrrrraaaaaaaaaaaacccccccccccceeeeeeeeeeeelll 
+lllllllllssssssssssssuuuuuuuuuuuussssssssssss            
+AAAAAAAAAAAAuuuuuuuuuuuurrrrrrrrrrrreeeeeeeeeeeeoooooooooooolllllllllllluuu 
+uuuuuuuuussssssssssss            
+PPPPPPPPPPPPhhhhhhhhhhhhiiiiiiiiiiiilllllllllllliiiiiiiiiiiippppppppppppuuu 
+uuuuuuuuussssssssssss            ------------------------                   
+     
+eeeeeeeeeeeeaaaaaaaaaaaarrrrrrrrrrrrtttttttttttthhhhhhhhhhhh............    
+        aaaaaaaaaaaannnnnnnnnnnndddddddddddd            
+hhhhhhhhhhhheeeeeeeeeeeeaaaaaaaaaaaavvvvvvvvvvvveeeeeeeeeeeennnnnnnnnnnn    
+        tttttttttttthhhhhhhhhhhhaaaaaaaaaaaannnnnnnnnnnn            
+ggggggggggggrrrrrrrrrrrreeeeeeeeeeeeaaaaaaaaaaaatttttttttttteeeeeeeeeeeerrr 
+rrrrrrrrr            iiiiiiiiiiiissssssssssss            
+hhhhhhhhhhhheeeeeeeeeeee            
+tttttttttttthhhhhhhhhhhhaaaaaaaaaaaatttttttttttt            
+mmmmmmmmmmmmaaaaaaaaaaaannnnnnnnnnnn            ooooooooooooffffffffffff    
+        
+iiiiiiiiiiiimmmmmmmmmmmmmmmmmmmmmmmmeeeeeeeeeeeennnnnnnnnnnnssssssssssssiii 
+iiiiiiiiittttttttttttyyyyyyyyyyyy            
+tttttttttttthhhhhhhhhhhheeeeeeeeeeee            iiiiiiiiiiiissssssssssss    
+        ssssssssssssuuuuuuuuuuuucccccccccccchhhhhhhhhhhh            
+FFFFFFFFFFFFoooooooooooorrrrrrrrrrrr            
+hhhhhhhhhhhhiiiiiiiiiiiimmmmmmmmmmmm............            
+iiiiiiiiiiiinnnnnnnnnnnnttttttttttttoooooooooooo            
+fffffffffffflllllllllllloooooooooooowwwwwwwwwwwwssssssssssss            
+ccccccccccccrrrrrrrrrrrreeeeeeeeeeeeaaaaaaaaaaaatttttttttttteeeeeeeeeeee    
+        ttttttttttttoooooooooooo            
+ddddddddddddeeeeeeeeeeeessssssssssssiiiiiiiiiiiirrrrrrrrrrrreeeeeeeeeeeesss 
+sssssssss            hhhhhhhhhhhheeeeeeeeeeee            
+tttttttttttthhhhhhhhhhhhaaaaaaaaaaaatttttttttttt            
+wwwwwwwwwwwwoooooooooooorrrrrrrrrrrrkkkkkkkkkkkk            
+tttttttttttthhhhhhhhhhhheeeeeeeeeeee            iiiiiiiiiiiitttttttttttt    
+        ffffffffffffrrrrrrrrrrrroooooooooooommmmmmmmmmmm            
+aaaaaaaaaaaannnnnnnnnnnndddddddddddd            
+wwwwwwwwwwwweeeeeeeeeeeerrrrrrrrrrrreeeeeeeeeeee            
+iiiiiiiiiiiitttttttttttt            aaaaaaaaaaaassssssssssss            
+hhhhhhhhhhhheeeeeeeeeeeeaaaaaaaaaaaavvvvvvvvvvvveeeeeeeeeeeennnnnnnnnnnn,,, 
+,,,,,,,,,            nnnnnnnnnnnneeeeeeeeeeeewwwwwwwwwwww            
+aaaaaaaaaaaa            
+eeeeeeeeeeeessssssssssssttttttttttttaaaaaaaaaaaabbbbbbbbbbbblllllllllllliii 
+iiiiiiiiisssssssssssshhhhhhhhhhhheeeeeeeeeeeessssssssssss            
+hhhhhhhhhhhheeeeeeeeeeee            
+ssssssssssssoooooooooooommmmmmmmmmmmeeeeeeeeeeeetttttttttttthhhhhhhhhhhhiii 
+iiiiiiiiinnnnnnnnnnnngggggggggggg,,,,,,,,,,,,            
+ccccccccccccrrrrrrrrrrrreeeeeeeeeeeeaaaaaaaaaaaatttttttttttteeeeeeeeeeee    
+        ttttttttttttoooooooooooo            
+uuuuuuuuuuuunnnnnnnnnnnnddddddddddddeeeeeeeeeeeerrrrrrrrrrrrttttttttttttaaa 
+aaaaaaaaakkkkkkkkkkkkeeeeeeeeeeeessssssssssss            
+mmmmmmmmmmmmaaaaaaaaaaaannnnnnnnnnnn            aaaaaaaaaaaa            
+WWWWWWWWWWWWhhhhhhhhhhhheeeeeeeeeeeennnnnnnnnnnn            
+fffffffffffflllllllllllloooooooooooowwwwwwwwwwww............            
+aaaaaaaaaaaarrrrrrrrrrrrttttttttttttssssssssssss            
+nnnnnnnnnnnneeeeeeeeeeeewwwwwwwwwwww            
+wwwwwwwwwwwwhhhhhhhhhhhhiiiiiiiiiiiicccccccccccchhhhhhhhhhhh            
+ffffffffffffrrrrrrrrrrrroooooooooooommmmmmmmmmmm            
+eeeeeeeeeeeennnnnnnnnnnneeeeeeeeeeeerrrrrrrrrrrrggggggggggggyyyyyyyyyyyy,,, 
+,,,,,,,,,            ooooooooooooffffffffffff            
+ssssssssssssoooooooooooouuuuuuuuuuuurrrrrrrrrrrrcccccccccccceeeeeeeeeeee    
+        nnnnnnnnnnnneeeeeeeeeeeewwwwwwwwwwww            aaaaaaaaaaaa        
+    
+ffffffffffffiiiiiiiiiiiirrrrrrrrrrrrmmmmmmmmmmmmaaaaaaaaaaaammmmmmmmmmmmeee 
+eeeeeeeeennnnnnnnnnnntttttttttttt,,,,,,,,,,,,            
+nnnnnnnnnnnneeeeeeeeeeeewwwwwwwwwwww            aaaaaaaaaaaa            
+hhhhhhhhhhhheeeeeeeeeeeeaaaaaaaaaaaavvvvvvvvvvvveeeeeeeeeeeennnnnnnnnnnn,,, 
+,,,,,,,,,            nnnnnnnnnnnneeeeeeeeeeeewwwwwwwwwwww            
+aaaaaaaaaaaa            
+ccccccccccccrrrrrrrrrrrreeeeeeeeeeeeaaaaaaaaaaaatttttttttttteeeeeeeeeeee    
+        
+TTTTTTTTTTTThhhhhhhhhhhhoooooooooooouuuuuuuuuuuugggggggggggghhhhhhhhhhhhttt 
+tttttttttssssssssssss            
+ssssssssssssiiiiiiiiiiiiddddddddddddeeeeeeeeeeeerrrrrrrrrrrreeeeeeeeeeeeaaa 
+aaaaaaaaallllllllllll............            
+nnnnnnnnnnnnoooooooooooorrrrrrrrrrrr            
+eeeeeeeeeeeelllllllllllleeeeeeeeeeeemmmmmmmmmmmmeeeeeeeeeeeennnnnnnnnnnnttt 
+tttttttttaaaaaaaaaaaallllllllllll            
+nnnnnnnnnnnneeeeeeeeeeeeiiiiiiiiiiiitttttttttttthhhhhhhhhhhheeeeeeeeeeeerrr 
+rrrrrrrrr            iiiiiiiiiiiissssssssssss            
+tttttttttttthhhhhhhhhhhhaaaaaaaaaaaatttttttttttt            
+ffffffffffffoooooooooooorrrrrrrrrrrrcccccccccccceeeeeeeeeeee            
+ccccccccccccrrrrrrrrrrrreeeeeeeeeeeeaaaaaaaaaaaattttttttttttiiiiiiiiiiiivvv 
+vvvvvvvvveeeeeeeeeeee            aaaaaaaaaaaa            
+ttttttttttttoooooooooooo            
+bbbbbbbbbbbbiiiiiiiiiiiirrrrrrrrrrrrtttttttttttthhhhhhhhhhhh            
+ggggggggggggiiiiiiiiiiiivvvvvvvvvvvveeeeeeeeeeee            
+TTTTTTTTTTTThhhhhhhhhhhhoooooooooooouuuuuuuuuuuugggggggggggghhhhhhhhhhhhttt 
+tttttttttssssssssssss 
+
+Hints:
+  * Words are in the strange order!
+  * Why there are so many doubled letters?
+  * The text seems to be rather long, 3x long as usual
+-------------------------------------------------------------------------------------
+Encrypted message #56:                   Level:2, Scores:138
+
+uoY tonnac ylsuoenatlumis tneverp dna eraperp rof .raw  -- arabraB hsuB no 
+raw 
+
+Hints:
+  * Words are in the strange order!
+  * These words sound very similarly, maybe we start from another side?
+-------------------------------------------------------------------------------------
+Encrypted message #57:                   Level:2, Scores:140
+
+f! eяehт $@ш ef!ят$ dп@ п0!тпeтп0c п! ehт ,eµ0h Уяev e1тт!1 e$1e п! ef!1 
+d1u0c eт@$пepµ0c я0f .т!  -- Уekc!µ Уeп00я п0 eg@!яя@µ 
+
+Hints:
+  * I think Ceasar was using this kind of cipher
+  * I feel dizzy
+-------------------------------------------------------------------------------------
+Encrypted message #58:                   Level:2, Scores:144
+
+AAAAAAAAAAAA            ggggggggggggiiiiiiiiiiiifffffffffffftttttttttttt    
+        iiiiiiiiiiiinnnnnnnnnnnn            
+sssssssssssseeeeeeeeeeeeaaaaaaaaaaaassssssssssssoooooooooooonnnnnnnnnnnn    
+        iiiiiiiiiiiissssssssssss            aaaaaaaaaaaa            
+ddddddddddddoooooooooooouuuuuuuuuuuubbbbbbbbbbbblllllllllllleeeeeeeeeeee    
+        ffffffffffffaaaaaaaaaaaavvvvvvvvvvvvoooooooooooorrrrrrrrrrrr        
+    ttttttttttttoooooooooooo            
+tttttttttttthhhhhhhhhhhheeeeeeeeeeee            
+nnnnnnnnnnnneeeeeeeeeeeeeeeeeeeeeeeeddddddddddddyyyyyyyyyyyy............    
+                    ------------------------            
+PPPPPPPPPPPPuuuuuuuuuuuubbbbbbbbbbbblllllllllllliiiiiiiiiiiilllllllllllliii 
+iiiiiiiiiuuuuuuuuuuuussssssssssss            
+SSSSSSSSSSSSyyyyyyyyyyyyrrrrrrrrrrrruuuuuuuuuuuussssssssssss            
+oooooooooooonnnnnnnnnnnn            
+ggggggggggggiiiiiiiiiiiivvvvvvvvvvvviiiiiiiiiiiinnnnnnnnnnnngggggggggggg 
+
+Hints:
+  * Why there are so many doubled letters?
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #59:                   Level:2, Scores:146
+
+emoh no notraS yaM --  .elpoep si ti ,ecalp a ton si emoh yM 
+
+Hints:
+  * I feel dizzy
+  * Words are in the strange order!
+-------------------------------------------------------------------------------------
+Encrypted message #60:                   Level:2, Scores:146
+
+yyyyttttiiiissssrrrreeeevvvvddddaaaa    nnnnoooo    
+eeeerrrraaaaeeeeppppsssseeeekkkkaaaahhhhSSSS    
+mmmmaaaaiiiilllllllliiiiWWWW    --------        
+....ssssddddrrrroooocccceeeerrrr    kkkkaaaaeeeerrrrbbbb    ooootttt    
+ssssrrrreeeehhhhttttoooo    ;;;;kkkkaaaaeeeerrrrbbbb    ooootttt    
+nnnneeeemmmm    eeeemmmmoooossss    sssseeeessssuuuuaaaacccc    
+yyyyttttiiiissssrrrreeeevvvvddddAAAA 
+
+Hints:
+  * The text seems to be rather long, 4x long as usual
+  * Can you read backwards?
+-------------------------------------------------------------------------------------
+Encrypted message #61:                   Level:2, Scores:150
+
+ghdwk rq vfkqhlghu dqguhz dqg iurory gldqh --  olylqj. wkh ri flwb wkh eb 
+hqflufohg vohhsv ghdg wkh ri flwb wkh vlgh. eb vlgh vwdqg judyhbdug wkh dqg 
+fkxufk wkh wkdw dfflghqw qr lw'v 
+
+Hints:
+  * It sounds like Master Yodo's language
+  * The text looks shifted to the right(def = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #62:                   Level:2, Scores:152
+
+gggttt   uuuhhhpppkkkiiizzz   ooottt   vvvuuuyyyyyykkkyyyyyyooouuuttt   
+yyykkkrrrjjjuuusss   xxxkkkzzzgggoootttyyy   zzznnnkkk   yyygggssskkk   
+iiinnngggxxxsss   zzznnngggzzz   ooozzz   nnngggjjj   ooottt   
+vvvaaaxxxyyyaaaooozzz...      ------   bbbooojjjggg   jjj...   
+yyyiiiaaajjjjjjkkkxxx   uuuttt   vvvuuuyyyyyykkkyyyyyyooouuutttyyy 
+
+Hints:
+  * ghijklm = abcdefg  try to generalize this knowledge
+  * I see too many letters
+-------------------------------------------------------------------------------------
+Encrypted message #63:                   Level:2, Scores:156
+
+qf pf vobs bdkxoqp qxeq beq poxbv ezxbq pr bzkbfqxm - qxeq beq obqolep orl 
+,bjfq beq obqxbod orl vqfzxmxz olc .dkfqfxt  -- eqbyxwfib olivxq kl 
+bzkbfqxm 
+
+Hints:
+  * I feel dizzy
+  * xyzabcd = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #64:                   Level:2, Scores:158
+
+тттhhheee   000ппп111УУУ   ттт!!!µµµeee   pppeee000ppp111eee   
+ddd!!!$$$111!!!kkkeee   ggg000$$$$$$!!!ppp   !!!$$$   шшшhhheeeппп   
+УУУ000uuu   ggg000$$$$$$!!!ppp   @@@ßßß000uuuттт   тттhhheeeµµµ...      
+------   uuuпппkkkппп000шшшппп   000ппп   ggg000$$$$$$!!!ppp 
+
+Hints:
+  * I think Ceasar was using this kind of cipher
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #65:                   Level:2, Scores:160
+
+rrraaawww   nnnooo   rrreeelllllluuuFFF   rrreeetttsssnnniiimmmkkkcccuuuBBB 
+  ...RRR   ------      ...dddeeehhhsssdddoooooolllbbb   hhhtttiiiwww   
+sssccciiitttiiillloooppp   sssiii   rrraaawww   eeellliiihhhwww   
+dddeeehhhsssdddoooooolllbbb   tttuuuooohhhtttiiiwww   rrraaawww   sssiii   
+sssccciiitttiiillloooPPP 
+
+Hints:
+  * Maybe we can use a mirror here?
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #66:                   Level:2, Scores:164
+
+noitatpmet no esuohgnilO enaL --  .sserdda gnidrawrof a evael yllareneg 
+noitatpmet eelf ohw esohT 
+
+Hints:
+  * It sounds like Master Yodo's language
+  * I feel dizzy
+-------------------------------------------------------------------------------------
+Encrypted message #67:                   Level:2, Scores:164
+
+,tnemegduJ ton noissap dluohs .liaverp  -- sumrahcipE no noissap 
+
+Hints:
+  * Maybe we can use a mirror here?
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #68:                   Level:2, Scores:166
+
+promises on Nietzsche Friedrich --  makes. one promises the keep to able be 
+to memory good a have must One 
+
+Hints:
+  * Words are mirrored, no?
+  * These words sound very similarly, maybe we start from another side?
+-------------------------------------------------------------------------------------
+Encrypted message #69:                   Level:3, Scores:396
+
+vqf0яqxj k1 1eт 01qz1@ --  .pßjfqßj1p epf@!fez ßУ q'kxz я1v cf µя kт10d 
+dkfßУ kf qkf1µ 1k p'ß0ßeq 
+
+Hints:
+  * Maybe we can use a mirror here?
+  * xyzabcd = abcdefg  try to generalize this knowledge
+  * тheУ def!п!тe1У $uß$т!тuтe $0µeтh!пg ш!тh $0µeтh!пg, шe пeed т0 !пve$т!g@тe.
+-------------------------------------------------------------------------------------
+Encrypted message #70:                   Level:3, Scores:402
+
+bbbbiiiirrrrddddssss    oooonnnn    BBBBuuuurrrrggggeeeessssssss    
+MMMMiiiittttcccchhhheeeellllllll    --------        
+wwwwiiiinnnnggggssss....    oooouuuurrrr    oooonnnn    
+hhhheeeeaaaavvvveeeennnn    ttttoooo    uuuupppp    ssssoooouuuullllssss    
+oooouuuurrrr    ccccaaaarrrrtttt    ccccrrrraaaannnneeeessss    
+bbbbeeeelllliiiieeeevvvveeee    VVVViiiieeeettttnnnnaaaammmmeeeesssseeee    
+TTTThhhheeee    hhhhaaaappppppppiiiinnnneeeessssssss....    aaaannnndddd    
+ffffiiiiddddeeeelllliiiittttyyyy    ooooffff    iiiiccccoooonnnnssss    
+TTTThhhheeeeyyyy''''rrrreeee    bbbbaaaaggggggggaaaaggggeeee....    
+mmmmyyyyssssttttiiiiccccaaaallll    hhhheeeeaaaavvvvyyyy    
+tttthhhhiiiissss    ccccaaaarrrrrrrryyyy    CCCCrrrraaaannnneeeessss 
+
+Hints:
+  * We need to look at every word with a mirror!
+  * Maybe we can use a mirror here?
+  * Why there are so many doubled letters?
+-------------------------------------------------------------------------------------
+Encrypted message #71:                   Level:3, Scores:408
+
+p0veятУ 0п d0ug1@$$ fяedeя!ck --  $@fe. ße ш!11 pя0peятУ п0я peя$0п$ 
+пe!тheя тheµ, degя@de @пd я0ß, 0ppяe$$, т0 c0п$p!я@cУ 0яg@п!zed @п !п !$ 
+$0c!eтУ тh@т fee1 т0 µ@de !$ c1@$$ 0пe @пУ шheяe @пd pяev@!1$, !gп0я@пce 
+шheяe eпf0яced, !$ p0veятУ шheяe deп!ed, !$ ju$т!ce шheяe 
+
+Hints:
+  * We need to look at every word with a mirror!
+  * These words sound very similarly, maybe we start from another side?
+  * I think Ceasar was using this kind of cipher
+-------------------------------------------------------------------------------------
+Encrypted message #72:                   Level:3, Scores:414
+
+1egeh $@ш тhg!я пehш eh d!@$ т@hт eш пя@e1 µ0яf Уя0т$!h т@hт п@µ п@c яeveп 
+пя@e1 gп!hтУп@ µ0яf .Уя0т$!h  -- egя0eg dя@пяeß ш@h$ п0 Уя0т$!h 
+
+Hints:
+  * These words sound very similarly, maybe we start from another side?
+  * Words are in the strange order!
+  * тheУ def!п!тe1У $uß$т!тuтe $0µeтh!пg ш!тh $0µeтh!пg, шe пeed т0 !пve$т!g@тe.
+-------------------------------------------------------------------------------------
+Encrypted message #73:                   Level:3, Scores:420
+
+яedпu @ тпeµпяev0g hc!hш $п0$!яpµ! ,У1т$ujпu ehт euят ec@1p я0f @ т$uj п@µ 
+$! 0$1@ @ .п0$!яp  -- $uт!1c@яeh п0 ec!т$uj 
+
+Hints:
+  * тheУ def!п!тe1У $uß$т!тuтe $0µeтh!пg ш!тh $0µeтh!пg, шe пeed т0 !пve$т!g@тe.
+  * It sounds like Master Yodo's language
+  * Can you read backwards?
+-------------------------------------------------------------------------------------
+Encrypted message #74:                   Level:3, Scores:426
+
+mhucwcncfij hi myhubjinmclu --  .hucwcncfij u melof yhinm slypy lyxho 
+
+Hints:
+  * I feel dizzy
+  * Other language might have a different words order, try to make it more English
+  * The text looks shifted to the left(uvw = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #75:                   Level:3, Scores:429
+
+µµµµµ00000dddddeeeeeяяяяя00000ßßßßß     ппппп00000     
+$$$$$яяяяяeeeeedddddпппппuuuuu@@@@@$$$$$     eeeeegggggяяяяя00000eeeeeggggg 
+    ----------          .....dddddeeeeeяяяяя00000ßßßßß     µµµµµ@@@@@     
+!!!!!     eeeee$$$$$uuuuu@@@@@ccccceeeeeßßßßß     
+gggggппппп!!!!!vvvvv@@@@@eeeee11111     µµµµµ@@@@@     !!!!!     
+.....eeeeeУУУУУßßßßß-----ddddd0000000000ggggg 
+
+Hints:
+  * I see too many letters
+  * Maybe we can use a mirror here?
+  * I think Ceasar was using this kind of cipher
+-------------------------------------------------------------------------------------
+Encrypted message #76:                   Level:3, Scores:435
+
+dddddeeeee$$$$$!!!!!rrrrreeeee     00000ппппп     ßßßßßeeeee1111111111     
+gggggrrrrr@@@@@hhhhh@@@@@µµµµµ     
+@@@@@11111eeeeexxxxx@@@@@пппппdddddeeeeerrrrr     ----------          
+dddddeeeee$$$$$!!!!!rrrrreeeee$$$$$.....     @@@@@ппппп!!!!!µµµµµ@@@@@11111 
+    00000fffff     fffffuuuuu11111fffff!!!!!11111µµµµµeeeeeпппппттттт     
+тттттhhhhheeeee     ßßßßßyyyyy     
+$$$$$@@@@@ттттт!!!!!$$$$$fffff!!!!!eeeeeddddd     ßßßßßeeeee     ттттт00000 
+    rrrrreeeeefffffuuuuu$$$$$eeeee$$$$$     
+@@@@@ппппп!!!!!µµµµµ@@@@@11111$$$$$,,,,,     тттттhhhhheeeee     
+@@@@@µµµµµ00000пппппggggg     @@@@@1111100000пппппeeeee     
+wwwwwhhhhh!!!!!ccccchhhhh,,,,,     @@@@@ппппп!!!!!µµµµµ@@@@@11111     
+@@@@@ппппп     !!!!!$$$$$     µµµµµ@@@@@ппппп 
+
+Hints:
+  * The text seems to be rather long, 5x long as usual
+  * тhey def!п!тe1y $uß$т!тuтe $0µeтh!пg w!тh $0µeтh!пg, we пeed т0 !пve$т!g@тe.
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #77:                   Level:3, Scores:444
+
+srolwlfv rq qhzpdq h. doiuhg --  srolwlfv. dv zhoo dv ... sdb qrw grhv 
+fulph 
+
+Hints:
+  * Words are mirrored, no?
+  * defghij = abcdefg  try to generalize this knowledge
+  * Maybe we can use a mirror here?
+-------------------------------------------------------------------------------------
+Encrypted message #78:                   Level:3, Scores:447
+
+hhhhttttuuuuooooyyyy    nnnnoooo    ddddaaaaeeeehhhheeeettttiiiihhhhWWWW    
+hhhhttttrrrrooooNNNN    ddddeeeerrrrffffllllAAAA    --------        
+....yyyyddddeeeeggggaaaarrrrtttt    yyyybbbb    
+ddddeeeehhhhccccuuuuoooottttnnnnuuuu    tttteeeeyyyy    ssssaaaa    
+eeeeffffiiiillll    ssssiiii    hhhhttttuuuuooooyyyy    ffffoooo    
+nnnnooooiiiittttiiiinnnniiiiffffeeeedddd    ttttsssseeeeppppeeeeeeeedddd    
+eeeehhhhTTTT 
+
+Hints:
+  * We need to look at every word with a mirror!
+  * Words are in the strange order!
+  * The text seems to be rather long, 4x long as usual
+-------------------------------------------------------------------------------------
+Encrypted message #79:                   Level:3, Scores:453
+
+IIIII     eeeeevvvvveeeeeiiiiillllleeeeebbbbb     tttttaaaaahhhhhttttt     
+llllllllllaaaaa     tttttnnnnneeeeemmmmmnnnnnrrrrreeeeevvvvvoooooggggg     
+sssssiiiii     ,,,,,llllliiiiivvvvveeeee     dddddnnnnnaaaaa     
+tttttaaaaahhhhhttttt     gggggnnnnniiiiiyyyyyrrrrrttttt     ooooottttt     
+eeeeevvvvvooooorrrrrpppppmmmmmiiiii     tttttiiiii     sssssiiiii     
+yyyyyllllleeeeegggggrrrrraaaaalllll     aaaaa     eeeeetttttsssssaaaaawwwww 
+    fffffooooo     .....eeeeemmmmmiiiiittttt          ----------     
+.....HHHHH     .....LLLLL     nnnnneeeeekkkkkcccccnnnnneeeeeMMMMM     
+nnnnnooooo     tttttnnnnneeeeemmmmmnnnnnrrrrreeeeevvvvvoooooggggg 
+
+Hints:
+  * I see too many letters
+  * These words sound very similarly, maybe we start from another side?
+  * It sounds like Master Yodo's language
+-------------------------------------------------------------------------------------
+Encrypted message #80:                   Level:3, Scores:462
+
+yyylllooofffcccuuuzzz   hhhiii   yyyyyyvvvfffuuu   xxxllluuuqqqxxxyyy   
+------      ...nnnccc   zzziii   nnnoooiii   yyyeeeiiiddd   uuu   
+yyyeeeuuuggg   hhhuuuwww   oooiiisss   yyymmmooouuuwwwyyyvvv   
+lllyyycccmmmuuuyyy   mmmccc   mmmmmmyyyhhhcccjjjjjjuuubbbhhhooo   xxxhhhuuu 
+  yyylllooofffcccuuuzzz   ???nnnccc   nnn'''hhhmmmccc   
+,,,lllyyycccmmmuuuyyy   mmm'''nnnccc   yyymmmooouuuwwwyyyvvv   
+,,,aaahhhcccpppyyycccbbbwwwuuu---lllyyyxxxhhhooo   xxxhhhuuu   
+xxxyyynnnhhhccciiijjjjjjuuummmcccxxx   aaahhhcccyyyvvv   zzziii   nnnoooiii 
+  eeewwwccceee   uuu   nnnyyyaaa   sssffffffuuuooonnnwwwuuu   oooiiisss   
+eeehhhcccbbbnnn   ccc 
+
+Hints:
+  * Maybe we can use a mirror here?
+  * I see too many letters
+  * uvwxyza = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #81:                   Level:3, Scores:465
+
+rrrrrrrrrrrroooooooooooommmmmmmmmmmmuuuuuuuuuuuuhhhhhhhhhhhh            
+nnnnnnnnnnnnoooooooooooo            
+ttttttttttttttttttttttttooooooooooooiiiiiiiiiiiillllllllllllllllllllllllEEE 
+EEEEEEEEE            hhhhhhhhhhhhgggggggggggguuuuuuuuuuuuHHHHHHHHHHHH       
+     ------------------------                        
+............nnnnnnnnnnnniiiiiiiiiiiiaaaaaaaaaaaarrrrrrrrrrrrbbbbbbbbbbbb    
+        nnnnnnnnnnnnaaaaaaaaaaaammmmmmmmmmmmuuuuuuuuuuuuhhhhhhhhhhhh        
+    eeeeeeeeeeeehhhhhhhhhhhhtttttttttttt            
+ffffffffffffoooooooooooo            
+yyyyyyyyyyyyttttttttttttiiiiiiiiiiiivvvvvvvvvvvviiiiiiiiiiiittttttttttttccc 
+cccccccccaaaaaaaaaaaa            
+ttttttttttttnnnnnnnnnnnnaaaaaaaaaaaacccccccccccciiiiiiiiiiiiffffffffffffiii 
+iiiiiiiiinnnnnnnnnnnnggggggggggggiiiiiiiiiiiissssssssssss            
+ttttttttttttssssssssssssoooooooooooommmmmmmmmmmm            
+eeeeeeeeeeeehhhhhhhhhhhhtttttttttttt            
+rrrrrrrrrrrraaaaaaaaaaaaffffffffffff            yyyyyyyyyyyybbbbbbbbbbbb    
+        ssssssssssssiiiiiiiiiiii            
+rrrrrrrrrrrroooooooooooommmmmmmmmmmmuuuuuuuuuuuuHHHHHHHHHHHH 
+
+Hints:
+  * Maybe we can use a mirror here?
+  * The text seems to be rather long, 3x long as usual
+  * The text seems to be rather long, 4x long as usual
+-------------------------------------------------------------------------------------
+Encrypted message #82:                   Level:3, Scores:468
+
+pppppeeeeerrrrrfffffeeeeeccccctttttiiiiiooooonnnnn     ooooonnnnn     
+HHHHHaaaaammmmmiiiiillllltttttooooonnnnn     
+AAAAAllllleeeeexxxxxaaaaannnnndddddeeeeerrrrr     ----------          
+mmmmmaaaaannnnn.....     iiiiimmmmmpppppeeeeerrrrrfffffeeeeecccccttttt     
+fffffrrrrrooooommmmm     wwwwwooooorrrrrkkkkk     
+pppppeeeeerrrrrfffffeeeeecccccttttt     aaaaa     ssssseeeeeeeeee     
+tttttooooo     eeeeexxxxxpppppeeeeecccccttttt     nnnnneeeeevvvvveeeeerrrrr 
+    IIIII 
+
+Hints:
+  * Why there are so many doubled letters?
+  * Can you read backwards?
+  * Words are mirrored, no?
+-------------------------------------------------------------------------------------
+Encrypted message #83:                   Level:3, Scores:477
+
+snhcunlywho hi ffymmol xhulnlyv --  .sncfuhicnul hc mahcbn fucnhymmy ybn zi 
+yhi ,ehcbn c ,mc hcunlyw sfynofimvu yv in nih 
+
+Hints:
+  * Words are mirrored, no?
+  * Words are in the strange order!
+  * uvwxyza = abcdefg  try to generalize this knowledge
+-------------------------------------------------------------------------------------
+Encrypted message #84:                   Level:3, Scores:480
+
+ivilx wm cprs irs ...wwiggyw sx if ipfe sx hritw vysc ijmp rm vysc ras ,cea 
+hre xsr sx izmk wvilxs hvywfe krmrihheq wqmepg rsty .xm  -- viltsxwmvlg 
+cipvsq rs wwiggyw 
+
+Hints:
+  * Other language might have a different words order, try to make it more English
+  * The text looks shifted to the right(efg = abc )
+  * Can you read backwards?
+-------------------------------------------------------------------------------------
+Encrypted message #85:                   Level:3, Scores:486
+
+kmjkrcutq tu tuytnup rkasgy --  .jktuygky kxg eknz rroz jkya nias kh 
+z'tjrauny xkhsoz jtg kmjkrcutq 
+
+Hints:
+  * I feel dizzy
+  * It sounds like Master Yodo's language
+  * The text looks shifted to the right(ghi = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #86:                   Level:3, Scores:495
+
+fffeeeiiillleeebbb   nnnooo   lllllleeessssssuuuRRR   
+dddnnnaaarrrtttrrreeeBBB   ------      ...gggnnnooorrrwww   eeebbb   
+ttthhhgggiiimmm   III   eeesssuuuaaaccceeebbb   sssfffeeeiiillleeebbb   
+yyymmm   rrrooofff   eeeiiiddd   rrreeevvveeennn   dddllluuuooowww   III 
+
+Hints:
+  * I feel dizzy
+  * The text seems to be rather long, 3x long as usual
+  * Other language might have a different words order, try to make it more English
+-------------------------------------------------------------------------------------
+Encrypted message #87:                   Level:3, Scores:498
+
+ppppp00000wwwwweeeeeяяяяя     00000ппппп     
+µµµµµ@@@@@ddddd!!!!!$$$$$00000ппппп     jjjjj@@@@@µµµµµeeeee$$$$$     
+----------          @@@@@ßßßßßuuuuu$$$$$eeeee.....     ттттт00000     
+11111!!!!!@@@@@ßßßßß11111eeeee     ßßßßßeeeee     eeeeevvvvveeeeeяяяяя     
+wwwww!!!!!1111111111     hhhhh@@@@@пппппddddd$$$$$,,,,,     
+hhhhhuuuuuµµµµµ@@@@@ппппп     !!!!!ппппп     ßßßßßeeeee     
+µµµµµuuuuu$$$$$ттттт     !!!!!ттттт     @@@@@$$$$$     
+1111100000dddddgggggeeeeeddddd     ppppp00000wwwwweeeeeяяяяя,,,,,     
+@@@@@пппппddddd     ppppp00000wwwwweeeeeяяяяя;;;;;     !!!!!$$$$$     
+ggggg00000vvvvveeeeeяяяяяпппппµµµµµeeeeeпппппттттт     00000fffff     
+eeeee$$$$$$$$$$eeeeeпппппccccceeeee     тттттhhhhheeeee 
+
+Hints:
+  * I see too many letters
+  * тhey def!п!тe1y $uß$т!тuтe $0µeтh!пg w!тh $0µeтh!пg, we пeed т0 !пve$т!g@тe.
+  * Other language might have a different words order, try to make it more English
+-------------------------------------------------------------------------------------
+Encrypted message #88:                   Level:3, Scores:504
+
+fffgggaaalllsssfffaaayyyssseeeaaa   kkkaaa   wwwzzzlll   
+yyyfffaaaffffffaaayyywwwttt   xxxggg   ...fffgggaaalllssswwwjjjuuu   
+mmmgggqqq   wwwfffaaayyyssseeeaaa   lllssszzzooo   mmmgggqqq   
+,,,wwwjjjaaakkkwwwvvv   mmmgggqqq   ddddddaaaooo   lllssszzzooo   mmmgggqqq 
+  wwwfffaaayyyssseeeaaa   vvvfffsss   lllsss   lllkkksssddd   mmmgggqqq   
+wwwlllssswwwjjjuuu   lllssszzzooo   mmmgggqqq   ...ddddddaaaooo      ------ 
+  wwwyyyjjjgggwwwyyy   vvvjjjsssfffjjjwwwttt   ooossszzzkkk   fffggg   
+fffgggaaalllsssfffaaayyyssseeeaaa 
+
+Hints:
+  * stuvwxy = abcdefg  try to generalize this knowledge
+  * I see too many letters
+  * We need to look at every word with a mirror!
+-------------------------------------------------------------------------------------
+Encrypted message #89:                   Level:5, Scores:995
+
+bjfq olc beq obeqxbt .qolmbo p'qf ailz qrl .philc dkfeprozbkly .ailz beq 
+akfh cl ailz ezfet iift ezkbot beq qfofmp qrl cl x dkrlv ,kxj ol bdolc qf 
+lqkf .ibbqp  -- bkxfa sliloc akx tboakx obafbkezp kl obeqxbt 
+
+Hints:
+  * Maybe we can use a mirror here?
+  * fghijkl = abcdefg  try to generalize this knowledge
+  * It sounds like Master Yodo's language
+  * rstuvwx = abcdefg  try to generalize this knowledge
+  * The text looks shifted to the right(bcd = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #90:                   Level:5, Scores:1010
+
+УУтт!!nn!!zzeeтт$$  пп00  nnяя@@ßßßßeerr  ттяяooßß11oo  ----    
+..nnoozzzz@@mm!!nnпп@@rr  $$eerrтт  тт00пп  $$!!  УУтт!!nn!!zzeeтт$$  
+ттeeßß  ,,$$пп00!!тт@@тт!!µµ!!11  $$тт!!  ooff@@rr  УУ@@µµ  $$ee!!ппooqq 
+
+Hints:
+  * I think Ceasar was using this kind of cipher
+  * Maybe we can use a mirror here?
+  * Why there are so many doubled letters?
+  * jklmnop = abcdefg  try to generalize this knowledge
+  * The text looks shifted to the right(bcd = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #91:                   Level:5, Scores:1015
+
+µµjjffтт  pp00  vv001100ppxx00  ----    eeffddffjjшшff!!  uupp  
+qq$$ßßdduujjттff  xxff  ggjj$$ттuu  xx!!ff00  xxffßßшшff,,  xxff  xxffcc  
+uußß00hhµµffee  ßß  xx!!ßßuu  pp!! 
+
+Hints:
+  * We need to look at every word with a mirror!
+  * These words sound very similarly, maybe we start from another side?
+  * The text looks shifted to the right(bcd = abc )
+  * I think Ceasar was using this kind of cipher
+  * The text seems to be rather long, 2x long as usual
+-------------------------------------------------------------------------------------
+Encrypted message #92:                   Level:5, Scores:1030
+
+@@  cc00пп$$eeяяvv@@тт!!vvee  !!$$  @@  µµ@@пп  шш!!ттhh  ттшш00  
+ppeeяяffeeccтт11УУ  gg0000dd  11eegg$$  шшhh00,,  hh00шшeevveeяя,,  hh@@$$  
+ппeevveeяя  11ee@@яяппeedd  тт00  шш@@11kk  ff00яяшш@@яяdd..    ----  
+ffяя@@ппkk11!!пп  dd..  яя0000$$eevvee11тт  00пп  
+cc00пп$$eeяяvv@@тт!!vvee$$ 
+
+Hints:
+  * Words are in the strange order!
+  * Can you read backwards?
+  * Words are mirrored, no?
+  * I think Ceasar was using this kind of cipher
+  * The text seems to be rather long, 2x long as usual
+-------------------------------------------------------------------------------------
+Encrypted message #93:                   Level:5, Scores:1045
+
+ttttttttttttttttttttttttzzzzzzzzzzzzzzzzzzzzzzzzppppppppppppppppppppppppaaa 
+aaaaaaaaaaaaaaaaaaaaavvvvvvvvvvvvvvvvvvvvvvvvppppppppppppppppppppppppyyyyyy 
+yyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhwwwwwwwww 
+wwwwwwwwwwwwwww                        
+uuuuuuuuuuuuuuuuuuuuuuuuvvvvvvvvvvvvvvvvvvvvvvvv                        
+yyyyyyyyyyyyyyyyyyyyyyyyllllllllllllllllllllllllttttttttttttttttttttttttvvv 
+vvvvvvvvvvvvvvvvvvvvvoooooooooooooooooooooooo                        
+------------------------------------------------                            
+                    
+........................aaaaaaaaaaaaaaaaaaaaaaaapppppppppppppppppppppppp    
+                    
+yyyyyyyyyyyyyyyyyyyyyyyyvvvvvvvvvvvvvvvvvvvvvvvvmmmmmmmmmmmmmmmmmmmmmmmm    
+                    
+kkkkkkkkkkkkkkkkkkkkkkkkpppppppppppppppppppppppphhhhhhhhhhhhhhhhhhhhhhhhwww 
+wwwwwwwwwwwwwwwwwwwww                        
+lllllllllllllllllllllllliiiiiiiiiiiiiiiiiiiiiiii                        
+vvvvvvvvvvvvvvvvvvvvvvvvaaaaaaaaaaaaaaaaaaaaaaaa                        
+zzzzzzzzzzzzzzzzzzzzzzzzaaaaaaaaaaaaaaaaaaaaaaaajjjjjjjjjjjjjjjjjjjjjjjjlll 
+lllllllllllllllllllllwwwwwwwwwwwwwwwwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeeellllll 
+llllllllllllllllll                        
+lllllllllllllllllllllllloooooooooooooooooooooooo                        
+aaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhooooooooooooooooooooooooaaa 
+aaaaaaaaaaaaaaaaaaaaa                        
+uuuuuuuuuuuuuuuuuuuuuuuunnnnnnnnnnnnnnnnnnnnnnnnppppppppppppppppppppppppzzz 
+zzzzzzzzzzzzzzzzzzzzz                        hhhhhhhhhhhhhhhhhhhhhhhh       
+                 zzzzzzzzzzzzzzzzzzzzzzzzpppppppppppppppppppppppp           
+             aaaaaaaaaaaaaaaaaaaaaaaapppppppppppppppppppppppp               
+         
+,,,,,,,,,,,,,,,,,,,,,,,,ffffffffffffffffffffffffyyyyyyyyyyyyyyyyyyyyyyyyaaa 
+aaaaaaaaaaaaaaaaaaaaauuuuuuuuuuuuuuuuuuuuuuuubbbbbbbbbbbbbbbbbbbbbbbbvvvvvv 
+vvvvvvvvvvvvvvvvvvjjjjjjjjjjjjjjjjjjjjjjjj                        
+zzzzzzzzzzzzzzzzzzzzzzzzppppppppppppppppppppppppoooooooooooooooooooooooo    
+                    
+yyyyyyyyyyyyyyyyyyyyyyyyvvvvvvvvvvvvvvvvvvvvvvvvmmmmmmmmmmmmmmmmmmmmmmmm    
+                    
+llllllllllllllllllllllllccccccccccccccccccccccccvvvvvvvvvvvvvvvvvvvvvvvvsss 
+sssssssssssssssssssss                        
+zzzzzzzzzzzzzzzzzzzzzzzzppppppppppppppppppppppppoooooooooooooooooooooooo    
+                    mmmmmmmmmmmmmmmmmmmmmmmmvvvvvvvvvvvvvvvvvvvvvvvv        
+                
+rrrrrrrrrrrrrrrrrrrrrrrrhhhhhhhhhhhhhhhhhhhhhhhhllllllllllllllllllllllllwww 
+wwwwwwwwwwwwwwwwwwwwwzzzzzzzzzzzzzzzzzzzzzzzz                        
+uuuuuuuuuuuuuuuuuuuuuuuuhhhhhhhhhhhhhhhhhhhhhhhhtttttttttttttttttttttttt    
+                    hhhhhhhhhhhhhhhhhhhhhhhh                        
+yyyyyyyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhllllllllllllllllllllllllooo 
+ooooooooooooooooooooo                        
+bbbbbbbbbbbbbbbbbbbbbbbbvvvvvvvvvvvvvvvvvvvvvvvvffffffffffffffffffffffff    
+                    
+yyyyyyyyyyyyyyyyyyyyyyyyllllllllllllllllllllllllcccccccccccccccccccccccclll 
+llllllllllllllllllllluuuuuuuuuuuuuuuuuuuuuuuulllllllllllllllllllllllloooooo 
+oooooooooooooooooodddddddddddddddddddddddd 
+
+Hints:
+  * The text looks shifted to the right(ghi = abc )
+  * Why there are so many doubled letters?
+  * Can you read backwards?
+  * Why there are so many doubled letters?
+  * The text looks shifted to the right(bcd = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #94:                   Level:5, Scores:1055
+
+vvvvoooodddd    ooooffffoooobbbbiiii    xxxxkkkkddddssssyyyyxxxx    
+uuuuxxxxyyyygggg,,,,    ggggrrrrooooddddrrrroooobbbb    ssssdddd    
+ggggssssccccrrrroooocccc    eeeecccc    ggggoooovvvvvvvv    yyyybbbb    
+ssssvvvvvvvv,,,,    ddddrrrrkkkkdddd    ggggoooo    ccccrrrrkkkkvvvvvvvv    
+zzzzkkkkiiii    kkkkxxxxiiii    zzzzbbbbssssmmmmoooo,,,,    
+llllooookkkkbbbb    kkkkxxxxiiii    lllleeeebbbbnnnnooooxxxx,,,,    
+wwwwoooooooodddd    kkkkxxxxiiii    rrrrkkkkbbbbnnnnccccrrrrsssszzzz,,,,    
+cccceeeezzzzzzzzyyyybbbbdddd    kkkkxxxxiiii    
+ppppbbbbssssooooxxxxnnnn,,,,    yyyyzzzzzzzzyyyyccccoooo    kkkkxxxxiiii    
+ppppyyyyoooo    ddddyyyy    kkkkcccccccceeeebbbboooo    ddddrrrroooo    
+cccceeeebbbbffffssssffffkkkkvvvv    kkkkxxxxnnnn    ddddrrrroooo    
+cccceeeemmmmmmmmoooocccccccc    yyyypppp    
+vvvvsssslllloooobbbbddddiiii....        --------    
+ttttyyyyccccoooozzzzrrrr    kkkknnnnnnnnssssccccyyyyxxxx    yyyyxxxx    
+zzzzkkkkddddbbbbssssyyyyddddssssccccwwww 
+
+Hints:
+  * Why there are so many doubled letters?
+  * Words are mirrored, no?
+  * Maybe we can use a mirror here?
+  * The text looks shifted to the right(klm = abc )
+  * Words are in the strange order!
+-------------------------------------------------------------------------------------
+Encrypted message #95:                   Level:5, Scores:1065
+
+!!!!!!ccccccdddddd@@@@@@$$$$$$      000000пппппп      
+000000''''''jjjjjjddddddddddddeeeeeeeeeeeedddddd      
+ffffffdddddd000000яяяяяяffffff!!!!!!@@@@@@      ------------            
+тттттт@@@@@@ttttttffffffggggggтттттт......      ßßßßßßddddddddddddпппппп    
+  gggggg@@@@@@cccccc      !!!!!!      шшшшшшgggggg@@@@@@тттттт      
+@@@@@@шшшшшш@@@@@@УУУУУУ      $$$$$$ттттттяяяяяя!!!!!!oooooo      
+тттттт000000      @@@@@@ппппппddddddшшшшшш,,,,,,      
+$$$$$$тттттт@@@@@@яяяяяятттттт      тттттт000000      
+ccccccddddddbbbbbb!!!!!!ccccccddddddcccccc      !!!!!!      
+cccccc000000шшшшшшпппппп......      ттттттggggggddddddµµµµµµ      
+oooooottttttтттттт      тттттт000000      µµµµµµdddddd      тттттт000000    
+  000000bbbbbbbbbbbbttttttяяяяяяяяяяяяddddddcccccc      
+gggggg@@@@@@$$$$$$пппппп''''''тттттт      !!!!!!тттттт      
+ттттттgggggg@@@@@@тттттт      
+ттттттgggggg!!!!!!ппппппjjjjjj!!!!!!ппппппffffff      @@@@@@ппппппcccccc    
+  ßßßßßßdddddd!!!!!!ппппппffffff      000000eeeeee      шшшшшш@@@@@@УУУУУУ  
+    µµµµµµУУУУУУ      тттттт000000      
+пппппп@@@@@@ттттттttttttяяяяяя@@@@@@111111      $$$$$$000000      ------    
+  µµµµµµdddddd      тттттт000000      ппппппdddddd@@@@@@яяяяяя      
+$$$$$$000000      !!!!!!ccccccdddddd@@@@@@$$$$$$      @@@@@@ппппппcccccc    
+  $$$$$$gggggg@@@@@@oooooodddddd$$$$$$      ------      µµµµµµdddddd      
+тттттт@@@@@@ttttttffffffggggggтттттт      gggggg@@@@@@$$$$$$      
+@@@@@@ппппппУУУУУУ000000ппппппdddddd      шшшшшшgggggg@@@@@@тттттт      
+111111!!!!!!jjjjjjdddddd      пппппп000000тттттт      @@@@@@яяяяяяdddddd    
+  ттттттgggggg@@@@@@тттттт      ggggggdddddd@@@@@@cccccc      µµµµµµУУУУУУ  
+    !!!!!!пппппп      ттттттgggggg!!!!!!ппппппffffff$$$$$$      
+gggggg@@@@@@uuuuuudddddd      !!!!!!      
+µµµµµµУУУУУУ$$$$$$dddddd111111eeeeee,,,,,,      тттттт000000      
+$$$$$$@@@@@@!!!!!!cccccc      !!!!!! 
+
+Hints:
+  * I feel dizzy
+  * I think Ceasar was using this kind of cipher
+  * zabcdef = abcdefg  try to generalize this knowledge
+  * The text seems to be rather long, 6x long as usual
+  * Maybe we can use a mirror here?
+-------------------------------------------------------------------------------------
+Encrypted message #96:                   Level:5, Scores:1075
+
+sx i0edr go 1okbx; sx kqo go exnob$dkxn.  -- 01sfob goxno11 r01wo$ 0x i0edr 
+
+Hints:
+  * These words sound very similarly, maybe we start from another side?
+  * It sounds like Master Yodo's language
+  * they definite1y $ub$titute $0mething with $0mething, we need t0 inve$tigate.
+  * The text looks shifted to the right(klm = abc )
+  * I feel dizzy
+-------------------------------------------------------------------------------------
+Encrypted message #97:                   Level:6, Scores:1866
+
+@$ ! mkт 01jkя, !'bk 1k@япkj т0 1!$тkп т0 vk0v1k я@тnkя тn@п @iia$k тnkµ 0l 
+тn!пm$.  -- v0 ßя0п$0п 0п 1!$тkп!пm 
+
+Hints:
+  * I think Ceasar was using this kind of cipher
+  * It sounds like Master Yodo's language
+  * I feel dizzy
+  * The text looks shifted to the left(qrs = abc )
+  * Maybe we can use a mirror here?
+  * The text looks shifted to the left(qrs = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #98:                   Level:6, Scores:1878
+
+1nw xlljbrxwjuuh bcd1kun xena cqn cadcq, kdc 1xbc xo cqn1 0rlt cqn1bnuenb 
+d0 jwm qdaah xoo jb ro wxcqrwp nena qj00nwnm.  -- dwtwxfw xw cadcq 
+
+Hints:
+  * Maybe we can use a mirror here?
+  * Words are mirrored, no?
+  * The text looks shifted to the left(zab = abc )
+  * It sounds like Master Yodo's language
+  * they definite1y substitute s0mething with s0mething, we need t0 investigate.
+  * The text looks shifted to the right(klm = abc )
+-------------------------------------------------------------------------------------
+Encrypted message #99:                   Level:6, Scores:1902
+
+xxxxxxffffff      xxxxxx000000vvvvvv111111eeeeee      
+000000gggggguuuuuuffffffoooooo      ccccccffffff      
+$$$$$$000000sssssssssssszzzzzz      jjjjjjgggggg      000000vvvvvvssssss    
+  xxxxxxjjjjjj$$$$$$iiiiiiffffff$$$$$$      xxxxxxffffffssssssffffff      
+hhhhhhssssssbbbbbbuuuuuujjjjjjggggggjjjjjjffffffeeeeee......            
+------------      bbbbbbffffff$$$$$$000000qqqqqq      000000oooooo      
+xxxxxxjjjjjj$$$$$$iiiiiiffffff$$$$$$ 
+
+Hints:
+  * Other language might have a different words order, try to make it more English
+  * These words sound very similarly, maybe we start from another side?
+  * I think Ceasar was using this kind of cipher
+  * We need to look at every word with a mirror!
+  * The text looks shifted to the right(bcd = abc )
+  * The text seems to be rather long, 6x long as usual
+-------------------------------------------------------------------------------------
