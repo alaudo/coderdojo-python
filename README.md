@@ -8,10 +8,11 @@ The course consists of three sessions and targets primarily students who have so
 Every session is supposed to last for about 2 hours which are mostly filled with the presentation and live coding.
 
 ### Folder structure
+<pre>
 |-tasks          => offline tasks for the sessions without Internet access
 |-code           => sample solutions to the tasks and demos from the presentation
 ~-presentation   => presentation in PPTX format
-
+</pre>
 ### Enigma code game
 An essential part of the course is an online competitive game called 'Enigma Code' that is available at: http://enigmacode.azurewebsites.net
 
